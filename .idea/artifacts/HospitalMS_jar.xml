@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="HospitalMS:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/HospitalMS_jar</output-path>
+    <root id="archive" name="HospitalMS.jar">
+      <element id="module-output" name="HospitalMS" />
+    </root>
+  </artifact>
+</component>
